@@ -3,5 +3,5 @@
 ## This my portfolio based on HMTL and CSS
 
 [!Live Heroku Deployment] (https://trehas-portfolio.herokuapp.com/)
-![Screenshot](![Uploading ![21047 (1)](https://user-images.githubusercontent.com/109394531/188788159-4cc77eb5-31d6-458e-bc7c-23f2ac442c92.jpg)
-)
+![Screenshot](![Uploading <img width="1175" alt="Screen Shot 2022-09-07 at 12 20 13 AM" src="https://user-images.githubusercontent.com/109394531/188788694-eaaee790-319b-4851-8e6b-252007aaa96a.png">
+ )
